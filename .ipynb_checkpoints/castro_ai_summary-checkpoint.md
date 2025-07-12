@@ -1,4 +1,4 @@
-# SF Castro 311 Dashboard Summary (2025-07-10)
+# SF Castro 311 Dashboard Summary (2025-07-09 → 2025-07-11)
 
 ## 2025-07-10
 
@@ -33,6 +33,9 @@
 
 ### AI Report
 
-**Summary:** 55 open vs. 34 closed cases.
-- **Top 3 Request Types**: Street and Sidewalk Cleaning (35), Graffiti Public (17), Encampment (9)
-- **Closing:** Resolution time of 1.3 hrs indicates quick service, while open-case aging shows most are resolved within a day (0–1 d=0) or up to three days (1–3 d=55).
+1. Summary: "55 open vs. 34 closed cases."  
+2. Top 3 Request Types:
+    - Street and Sidewalk Cleaning (35)
+    - Graffiti Public (17)
+    - Encampment (9)
+3. Closing: The average resolution time is 1.3 hours, with a majority of open cases within the first day (0-1 d=0, 1-3 d=55), and no cases with an aging of 3+ days.
