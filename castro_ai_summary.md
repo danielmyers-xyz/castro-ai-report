@@ -34,7 +34,7 @@ Summary: 17 open vs. 51 closed cases.
 
 Top 3 Request Types: Street and Sidewalk Cleaning, Encampment, Graffiti Private.
 
-Closing: Resolution speed (7.1 hrs) is relatively fast; however, the open-case aging distribution varies from 0–1 d=0 to 3+ d=13 for a small number of cases.
+Closing: Resolution speed is 7.1 hrs (average resolution time), while the open-case aging distribution ranges from 0 to 4 days for opened issues, with a peak at 3 days and significantly fewer cases older than 3 days.
 
 ## 2025-07-10
 
@@ -69,9 +69,10 @@ Closing: Resolution speed (7.1 hrs) is relatively fast; however, the open-case a
 
 ### AI Report
 
-"55 open vs. 34 closed cases."  
-"Top 3 Request Types: Graffiti Public, Encampment, Street and Sidewalk Cleaning."  
-"Closing: Resolution speed is 1.3 hrs; Open-case aging distribution varies between 0–1 d=0 (closed immediately), 1–3 d=55 (opened within a week), and 3+ d=0 (open for up to three days)."
+Summary: "55 open vs. 34 closed cases."  
+Top 3 Request Types:
+1. Street and Sidewalk Cleaning (35)  
+Closing: One sentence commenting on the resolution speed (1.3 hrs) and the open-case aging distribution (0–1 d=0, 1–3 d=55, 3+ d=0).
 
 ## 2025-07-11
 
