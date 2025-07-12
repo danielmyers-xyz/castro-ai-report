@@ -1,4 +1,4 @@
-# SF Castro 311 Dashboard Summaries (2025-07-09 → 2025-07-10)
+# SF Castro 311 Dashboard Summaries (2025-07-09 → 2025-07-11)
 
 ## 2025-07-09
 
@@ -26,18 +26,15 @@
 | Damage Property                           |       1 |
 
 **Average resolution time:** 7.1 hrs  
-**Open-case aging:** 0–1 d=0, 1–3 d=17, 3+ d=0
+**Open-case aging:** 0–1 d=0, 1–3 d=4, 3+ d=13
 
 ### AI Report
 
 Summary: 17 open vs. 51 closed cases.
 
-Top 3 Request Types:
-* Street and Sidewalk Cleaning    (26)
-* Encampment                      (16)
-* Graffiti Public                (3)
+Top 3 Request Types: Street and Sidewalk Cleaning, Encampment, Graffiti Private.
 
-Closing: The resolution speed is 7.1 hrs, indicating fast response times for many requests. Open-case aging distribution shows mostly 0–1 d=0 cases with a few 1–3 d=17 and no more than 3 days of open cases beyond that.
+Closing: Resolution speed (7.1 hrs) is relatively fast; however, the open-case aging distribution varies from 0–1 d=0 to 3+ d=13 for a small number of cases.
 
 ## 2025-07-10
 
@@ -72,11 +69,25 @@ Closing: The resolution speed is 7.1 hrs, indicating fast response times for man
 
 ### AI Report
 
-Summary: 55 open vs. 34 closed cases.
+"55 open vs. 34 closed cases."  
+"Top 3 Request Types: Graffiti Public, Encampment, Street and Sidewalk Cleaning."  
+"Closing: Resolution speed is 1.3 hrs; Open-case aging distribution varies between 0–1 d=0 (closed immediately), 1–3 d=55 (opened within a week), and 3+ d=0 (open for up to three days)."
 
-Top 3 Request Types:
-- Graffiti Private (20)
-- Encampment (16)
-- Street and Sidewalk Cleaning (15)
+## 2025-07-11
 
-Closing: With an average resolution time of 1.3 hours, the SF 311 service is capable of resolving cases within a day. The open-case aging distribution shows that most issues are resolved quickly (0–1 d=0), but some remain open for longer periods (1–3 d=55 and 3+ d=0).
+### Raw Metrics
+
+• Total cases: 0  
+• Open: 0  
+• Closed: 0  
+
+**Request Type Breakdown:**
+
+*no request types*
+
+**Average resolution time:** 0.0 hrs  
+**Open-case aging:** 0–1 d=0, 1–3 d=0, 3+ d=0
+
+### AI Report
+
+No updates or edits on 2025-07-11.
